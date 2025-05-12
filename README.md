@@ -1,0 +1,1 @@
+This project implements a real-time traffic surveillance system using deep learning and computer vision techniques. It detects vehicles, helmet violations, and traffic congestion using YOLO-based object detection models and a Django web interface.
