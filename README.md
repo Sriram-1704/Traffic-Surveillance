@@ -1,4 +1,4 @@
- Real-Time Traffic Surveillance And Detection Using Deep Learning
+ REAL-TIME TRAFFIC SURVEILLANCE AND DETECTION USING DEEP LEARNING 
 
 This project focuses on real-time traffic surveillance using deep learning and computer vision. It detects vehicles, monitors helmet violations, and analyzes traffic congestion to enhance road safety and traffic efficiency.
 
